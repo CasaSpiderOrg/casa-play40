@@ -1,0 +1,16 @@
+{
+  "name": "casa-play40",
+  "version": "1.0.0",
+  "description": "Package for Play40 backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "play40",
+    "spider"
+  ],
+  "author": "CasaSpider",
+  "license": "ISC"
+}
