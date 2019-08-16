@@ -4,6 +4,6 @@ module.exports = {
         return dice;
     },
     wafWoef: function () {
-        return ('Waf! Woef!');
+        return ('Waf! Woef! Miauw!');
     }
 };
