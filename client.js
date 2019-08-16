@@ -1,7 +1,5 @@
-var MyMethods = require('.');
-var throwTheDice = MyMethods.throwTheDice;
-var wafwoef = MyMethods.wafWoef;
+var Play40 = require('.');
 
-let dice = throwTheDice(5);
+let dice = Play40.throwTheDice(5);
 console.log('throw: ' + dice);
-console.log(wafwoef());
+console.log(Play40.wafWoef());

@@ -1,6 +1,6 @@
 {
   "name": "casa-play40",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "Package for Play40 backend",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "spider"
   ],
   "author": "CasaSpider",
+  "repository": {"url": "https://github.com/CasaSpiderOrg/casa-play40.git"},
   "license": "ISC"
 }

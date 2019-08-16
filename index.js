@@ -1,6 +1,6 @@
 module.exports = {
     throwTheDice: function (maxNumber) {
-        let dice = Math.floor(Math.random() * maxNumber + 1);
+        let dice = Math.ceil(Math.random() * maxNumber);
         return dice;
     },
     wafWoef: function () {
